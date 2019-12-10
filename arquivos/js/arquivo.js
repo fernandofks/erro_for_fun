@@ -1,5 +1,5 @@
-for(let j = 10; j > 0; j += 1){
-  console.log(j)
+for (var i = 0; i < 10; i++) {
+  console.log(i)
 }
 
 function soma1(a, b){
