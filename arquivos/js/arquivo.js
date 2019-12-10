@@ -1,4 +1,6 @@
-for(let j=10; j>0; j++){console.log(j)}
+for(let j=10; j>0; j+=1){
+    console.log(j)
+}
 
 function soma1(a, b){
     return a+b
